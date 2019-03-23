@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7116905ee7955e64a80090628b7d765e
+timeCreated: 1473966135
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RAM: {fileID: 1000013282025052, guid: 7c5590db0f7d0314aa000c1309e554a1, type: 2}
+  - MotherBoard: {fileID: 1000011007488710, guid: 7cf65490946bfda47bc18e2b98b2494f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+fileFormatVersion: 2
+guid: 9b73793dd39233b4d9350a9500dfe0ca
+timeCreated: 1481297025
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GabineteMotherBoardFonteHD: {fileID: 1000013562565100, guid: 8463eb3decf4c8444b378fb501676a90,
+      type: 2}
+  - GabineteMotherBoardRAMFonteHD: {fileID: 1000010219559802, guid: ebcab49adc18d004eabe9aea0cd0c87b,
+      type: 2}
+  - GabineteMotherBoardVideoFonteHD: {fileID: 1000013714141626, guid: 49665d1e374f3364295c3832093282d5,
+      type: 2}
+  - GabineteMotherBoardProcessadorFonteHD: {fileID: 1000014016910820, guid: ff55cbe02b8a89c47a01df4ccacca60c,
+      type: 2}
+  - GabineteMotherBoardRAMProcessadorFonteHD: {fileID: 1000011044929858, guid: 851f341ec142e9445a694c2cf772fb51,
+      type: 2}
+  - GabineteMotherBoardRAMVideoFonteHD: {fileID: 1000011410662318, guid: 0f9c431529a62c54b98c243d0c722e4c,
+      type: 2}
+  - GabineteMotherBoardProcessadorVideoFonteHD: {fileID: 1000012461204218, guid: dde7ef9d1b3e70c4686c942d3b2c02c2,
+      type: 2}
+  - GabineteMotherBoardRAMPRocessadorVideoFonteHD: {fileID: 1000013759745224, guid: 6d765c3476824114ab24b70ebb5d5ae6,
+      type: 2}
+  - GabineteMotherBoardRAM2ProcessadorFonteHD: {fileID: 1000011811254870, guid: d691a42c35bca5a42af64e8fab708a24,
+      type: 2}
+  - GabineteMotherBoardRAM2VideoFonteHD: {fileID: 1000011001061642, guid: b70d64c104cfd524abee35ab8b3fb626,
+      type: 2}
+  - GabineteMotherBoardRAM2ProcessadorVideoFonteHD: {fileID: 1000012820452080, guid: 611d1d1ebe21fc14ba5718e4c3b5d006,
+      type: 2}
+  - GabineteMotherBoardRAM2FonteHD: {fileID: 1000010189811572, guid: 0b7a24982984af84b929aac779949128,
+      type: 2}
+  - GabineteMotherBoardFonteHDDefeito: {fileID: 1000012280953236, guid: 26dcd185a6521314aad202eb90d6108f,
+      type: 2}
+  - GabineteMotherBoardRAMFonteHDDefeito: {fileID: 1000013929943058, guid: 066e066c4dd78674db3d3029d9a18864,
+      type: 2}
+  - GabineteMotherBoardVideoFonteHDDefeito: {fileID: 1000012314533496, guid: 255fd04f2c8b1324a8c3bcd515e9e666,
+      type: 2}
+  - GabineteMotherBoardProcessadorFonteHDDefeito: {fileID: 1000010098787922, guid: 61628b64534bd35408dd6262bb69b377,
+      type: 2}
+  - GabineteMotherBoardRAMProcessadorFonteHDDefeito: {fileID: 1000012626486136, guid: d438414b61318c44ca1d7fd51acf41ff,
+      type: 2}
+  - GabineteMotherBoardRAMVideoFonteHDDefeito: {fileID: 1000011113507948, guid: 4b796497d0524bd4582beb96d5a9bd95,
+      type: 2}
+  - GabineteMotherBoardProcessadorVideoFonteHDDefeito: {fileID: 1000010786549186,
+      guid: 2c88539b297fb024e8bc80f3241b673b, type: 2}
+  - GabineteMotherBoardRAMPRocessadorVideoFonteHDDefeito: {fileID: 1000013153008446,
+      guid: bcedfe0417119124a97e2a14038b7a7b, type: 2}
+  - GabineteMotherBoardRAM2ProcessadorFonteHDDefeito: {fileID: 1000013523332820, guid: 812c8dff40a1a3d499ae0ceec76e6e05,
+      type: 2}
+  - GabineteMotherBoardRAM2VideoFonteHDDefeito: {fileID: 1000012199248544, guid: 26f1e086f69adc34db593536c3a2d913,
+      type: 2}
+  - GabineteMotherBoardRAM2ProcessadorVideoFonteHDDefeito: {fileID: 1000010478956004,
+      guid: 9a41be8b34a3a654982f5d1751f537f3, type: 2}
+  - GabineteMotherBoardRAM2FonteHDDefeito: {fileID: 1000012249146184, guid: 6ed19394ce09fd044a76b1b028d4f58f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

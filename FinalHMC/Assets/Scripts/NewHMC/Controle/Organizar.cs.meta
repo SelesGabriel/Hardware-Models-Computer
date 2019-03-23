@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 28a1a1d85563e67419c26072f509c061
+timeCreated: 1481177286
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - iMotherBoard: {fileID: 1000011007488710, guid: 7cf65490946bfda47bc18e2b98b2494f,
+      type: 2}
+  - iProcessador: {fileID: 1000012952185056, guid: e5e308df37a00aa4bb35e3ad417166e9,
+      type: 2}
+  - iVideoBoard: {fileID: 1000010879904992, guid: 333d6fd9658717d43a2b7b83fd522110,
+      type: 2}
+  - iHD: {fileID: 1000010113554718, guid: 787c89b7516bc78478d7e24bee46a175, type: 2}
+  - iRAM: {fileID: 1000013282025052, guid: 7c5590db0f7d0314aa000c1309e554a1, type: 2}
+  - iGabinete: {fileID: 1000012711869540, guid: 39173b32490081c469fd449dc5ef98a3,
+      type: 2}
+  - iRAMDefeito: {fileID: 1000013282025052, guid: 149e2d3713f13474c9312fa99df4f3cb,
+      type: 2}
+  - iMotherBoardProcessador: {fileID: 1000012681516446, guid: 7c993d2faf6979e499b0f09d3d27501e,
+      type: 2}
+  - iMotherBoardRAM: {fileID: 1000014174121266, guid: e650a4bd87d261943bf2fd8e5ad964c7,
+      type: 2}
+  - iMotherBoardVideo: {fileID: 1000012061539400, guid: 4e92bfff1b0ed48449b1c729f5443b65,
+      type: 2}
+  - iMotherBoardProcessadorVideo: {fileID: 1000011933052308, guid: 7de8f0bf24e2832458d3367288c149bc,
+      type: 2}
+  - iMotherBoardRAMVideo: {fileID: 1000011538529348, guid: 0aa03b53c19d77b40a07efb969118562,
+      type: 2}
+  - iMotherBoardRAMProcessador: {fileID: 1000013488824686, guid: 60689e1911d05fb498dd915f0b8be131,
+      type: 2}
+  - iMotherBoardRAM2: {fileID: 1000011729028548, guid: d6e403f101c3fa3418713d4c13d28f77,
+      type: 2}
+  - iMotherBoardRAMProcessadorVideo: {fileID: 1000013582957484, guid: 7bb4f61f87f04d54a894aac1541171de,
+      type: 2}
+  - iMotherBoardRAM2Processador: {fileID: 1000012315212034, guid: cc02951c2b0ece841bb9f4109c1030d4,
+      type: 2}
+  - iMotherBoardRAM2Video: {fileID: 1000014272050562, guid: 9916002b623e69841ba255b2c6686dcd,
+      type: 2}
+  - iMotherBoardRAM2ProcessadorVideo: {fileID: 1000010574483268, guid: 966589b163f4ba14bbf1195f50bea4dd,
+      type: 2}
+  - iGabineteMotherBoard: {fileID: 1000010393014170, guid: d86acc31bbc5965409ab8d0c5c059175,
+      type: 2}
+  - iGabineteMotherBoardRAM: {fileID: 1000012421102798, guid: 8dcd21b801181294b857115addf114f6,
+      type: 2}
+  - iGabineteMotherBoardProcessador: {fileID: 1000011261352804, guid: 1b10340fd3691784d930b23e62a27b06,
+      type: 2}
+  - iGabineteMotherBoardVideo: {fileID: 1000012620093282, guid: 279a1368bc2ee8e49bd3dc7805aeb172,
+      type: 2}
+  - iGabineteMotherBoardRAM2: {fileID: 1000010349608116, guid: 45b1e01259e6d764ca2ca0adba97b5a5,
+      type: 2}
+  - iGabineteMotherBoardRAMProcessador: {fileID: 1000011387810292, guid: 7eedf0b4c07d4f14aaf7aa138abb6059,
+      type: 2}
+  - iGabineteMotherBoardRAMVideo: {fileID: 1000013836345406, guid: cf72aa87be866af4a99d4670c0f85209,
+      type: 2}
+  - iGabineteMotherBoardProcessadorVideo: {fileID: 1000013667972116, guid: febea5f9996e4a043890ceebdaed67e1,
+      type: 2}
+  - iGabineteCompletoRAM1: {fileID: 1000013690734998, guid: 297398847c5920146bab4bde55055845,
+      type: 2}
+  - iGabineteCompleto: {fileID: 1000010180802306, guid: 420676dcbcfb7c14099c991152a47a25,
+      type: 2}
+  - iMotherBoardRAMDefeito: {fileID: 1000014174121266, guid: 9df8b073268c3244a85f6a73c3312635,
+      type: 2}
+  - iMotherBoardRAM2Defeito: {fileID: 1000011729028548, guid: edc8385480d5d9740bfa76cba5f0505a,
+      type: 2}
+  - iMotherBoardRAMProcessadorDefeito: {fileID: 1000013488824686, guid: 749751eb2ff222a46b3ac21bbcb23353,
+      type: 2}
+  - iMotherBoardRAMVideoDefeito: {fileID: 1000011538529348, guid: 89013dcd1ca177f4491a4f55e8c97411,
+      type: 2}
+  - iMotherBoardRAM2ProcessadorDefeito: {fileID: 1000012315212034, guid: 0e21a67b8b09d3b43b7f345c5e75cbfe,
+      type: 2}
+  - iMotherBoardRAM2VideoDefeito: {fileID: 1000014272050562, guid: 38a6460dc8bdef84a8ca23add4b94475,
+      type: 2}
+  - iMotherBoardRAMProcessadorVideoDefeito: {fileID: 1000013582957484, guid: 744fc12b352f1f346a6f502b41ea8b4b,
+      type: 2}
+  - iMotherBoardRAM2ProcessadorVideoDefeito: {fileID: 1000010574483268, guid: 7f5ae0a3d68fb3a498d041ee0276f003,
+      type: 2}
+  - iGabineteMotherBoardRAMDefeito: {fileID: 1000012421102798, guid: e5b25d96335e316439b0afe09d8b2df6,
+      type: 2}
+  - iGabineteMotherBoardRAMProcessadorDefeito: {fileID: 1000011387810292, guid: e04c1f38c9ef23a48a99a90c1c0b6063,
+      type: 2}
+  - iGabineteMotherBoardRAM2Defeito: {fileID: 1000010560713590, guid: 38a30a1ad8ad1e041852c087d2b7ef3c,
+      type: 2}
+  - iGabineteMotherBoardRAMVideoDefeito: {fileID: 1000011073165782, guid: f34b5a7c44335134d97dabd0f39bde0c,
+      type: 2}
+  - iGabineteMotherBoardRAM2ProcessadorDefeito: {fileID: 1000011418008436, guid: 5954748bfec07a84ab87231e20961525,
+      type: 2}
+  - iGabineteMotherBoardRAM2VideoDefeito: {fileID: 1000011677787714, guid: 91aad794b59d69e46af6d9b985d27637,
+      type: 2}
+  - iGabineteMotherBoardRAMProcessadorVideoDefeito: {fileID: 1000013690734998, guid: 78b82ac24acf3784ba30cd8a693fd2e0,
+      type: 2}
+  - dGabineteMotherBoardRAMProcessadorVideoDefeito: {instanceID: 0}
+  - iGabineteMotherBoardRAM2Processador: {fileID: 1000011418008436, guid: 5954748bfec07a84ab87231e20961525,
+      type: 2}
+  - iGabineteMotherBoardRAM2ProcessadorVideoDefeito: {fileID: 1000010180802306, guid: 3de03f645899e5a43b4512d7b0ced1d9,
+      type: 2}
+  - dGabineteMotherBoardRAM2ProcessadorVideoDefeito: {instanceID: 0}
+  - iGabineteMotherBoardVideoDefeito: {fileID: 1000012620093282, guid: 0c1515a63bd5876489a1a4e929b6de7d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

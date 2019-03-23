@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: 8caf4e5084d388f45a1333f1b14819df
+timeCreated: 1478855332
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MotherboardRAMDefeito: {fileID: 1000014174121266, guid: 9df8b073268c3244a85f6a73c3312635,
+      type: 2}
+  - MotherboardRAMVideoDefeito: {fileID: 1000011538529348, guid: 89013dcd1ca177f4491a4f55e8c97411,
+      type: 2}
+  - MotherboardRAMProcessadorDefeito: {fileID: 1000013488824686, guid: 749751eb2ff222a46b3ac21bbcb23353,
+      type: 2}
+  - MotherboardRAMProcessadorVideoDefeito: {fileID: 1000013582957484, guid: 744fc12b352f1f346a6f502b41ea8b4b,
+      type: 2}
+  - MotherboardRAM2Defeito: {fileID: 1000011729028548, guid: edc8385480d5d9740bfa76cba5f0505a,
+      type: 2}
+  - MotherboardRAM2ProcessadorDefeito: {fileID: 1000012315212034, guid: 0e21a67b8b09d3b43b7f345c5e75cbfe,
+      type: 2}
+  - MotherboardRAM2ProcessadorVideoDefeito: {fileID: 1000010574483268, guid: 7f5ae0a3d68fb3a498d041ee0276f003,
+      type: 2}
+  - MotherboardRAM2VideoDefeito: {fileID: 1000014272050562, guid: 38a6460dc8bdef84a8ca23add4b94475,
+      type: 2}
+  - GabineteMotherboardRAMDefeito: {fileID: 1000012421102798, guid: e5b25d96335e316439b0afe09d8b2df6,
+      type: 2}
+  - GabineteMotherboardRAMVideoDefeito: {fileID: 1000011073165782, guid: f34b5a7c44335134d97dabd0f39bde0c,
+      type: 2}
+  - GabineteMotherboardRAMProcessadorDefeito: {fileID: 1000011387810292, guid: e04c1f38c9ef23a48a99a90c1c0b6063,
+      type: 2}
+  - GabineteMotherboardRAMProcessadorVideoDefeito: {fileID: 1000013690734998, guid: 78b82ac24acf3784ba30cd8a693fd2e0,
+      type: 2}
+  - GabineteMotherboardRAM2Defeito: {fileID: 1000010560713590, guid: 38a30a1ad8ad1e041852c087d2b7ef3c,
+      type: 2}
+  - GabineteMotherboardRAM2ProcessadorDefeito: {fileID: 1000011418008436, guid: 5954748bfec07a84ab87231e20961525,
+      type: 2}
+  - GabineteMotherboardRAM2ProcessadorVideoDefeito: {fileID: 1000010180802306, guid: 3de03f645899e5a43b4512d7b0ced1d9,
+      type: 2}
+  - GabineteMotherboardRAM2VideoDefeito: {fileID: 1000011677787714, guid: 91aad794b59d69e46af6d9b985d27637,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

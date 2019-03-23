@@ -1,0 +1,51 @@
+fileFormatVersion: 2
+guid: ba3854ed8d582004092d272d418aebfe
+timeCreated: 1480963882
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GabineteMotherBoard: {fileID: 1000010393014170, guid: d86acc31bbc5965409ab8d0c5c059175,
+      type: 2}
+  - GabineteMotherBoardRAM: {fileID: 1000012421102798, guid: 8dcd21b801181294b857115addf114f6,
+      type: 2}
+  - GabineteMotherBoardVideo: {fileID: 1000012620093282, guid: 279a1368bc2ee8e49bd3dc7805aeb172,
+      type: 2}
+  - GabineteMotherBoardProcessador: {fileID: 1000011261352804, guid: 1b10340fd3691784d930b23e62a27b06,
+      type: 2}
+  - GabineteMotherBoardRAMProcessador: {fileID: 1000011387810292, guid: 7eedf0b4c07d4f14aaf7aa138abb6059,
+      type: 2}
+  - GabineteMotherBoardRAMVideo: {fileID: 1000013836345406, guid: cf72aa87be866af4a99d4670c0f85209,
+      type: 2}
+  - GabineteMotherBoardProcessadorVideo: {fileID: 1000013667972116, guid: febea5f9996e4a043890ceebdaed67e1,
+      type: 2}
+  - GabineteMotherBoardRAMPRocessadorVideo: {fileID: 1000013690734998, guid: 297398847c5920146bab4bde55055845,
+      type: 2}
+  - GabineteMotherBoardRAM2Processador: {fileID: 1000013063165340, guid: 02366b2dfe162274e957e54417afec24,
+      type: 2}
+  - GabineteMotherBoardRAM2Video: {fileID: 1000013782574470, guid: 224a39c66c7ad964c8d3dccf736c4b55,
+      type: 2}
+  - GabineteMotherBoardRAM2ProcessadorVideo: {fileID: 1000010180802306, guid: 420676dcbcfb7c14099c991152a47a25,
+      type: 2}
+  - GabineteMotherBoardRAM2: {instanceID: 0}
+  - GabineteCompletoRAM1Defeito: {fileID: 1000013690734998, guid: 78b82ac24acf3784ba30cd8a693fd2e0,
+      type: 2}
+  - GabineteCompletoDefeito: {fileID: 1000010180802306, guid: 3de03f645899e5a43b4512d7b0ced1d9,
+      type: 2}
+  - GabineteMotherBoardRAM2Defeito: {fileID: 1000010560713590, guid: 38a30a1ad8ad1e041852c087d2b7ef3c,
+      type: 2}
+  - GabineteMotherBoardRAM2ProcessadorDefeito: {fileID: 1000011418008436, guid: 5954748bfec07a84ab87231e20961525,
+      type: 2}
+  - GabineteMotherBoardRAM2VideoDefeito: {fileID: 1000011677787714, guid: 91aad794b59d69e46af6d9b985d27637,
+      type: 2}
+  - GabineteMotherBoardRAMDefeito: {fileID: 1000012421102798, guid: e5b25d96335e316439b0afe09d8b2df6,
+      type: 2}
+  - GabineteMotherBoardRAMProcessadorDefeito: {fileID: 1000011387810292, guid: e04c1f38c9ef23a48a99a90c1c0b6063,
+      type: 2}
+  - GabineteMotherBoardRAMVideoDefeito: {fileID: 1000011073165782, guid: f34b5a7c44335134d97dabd0f39bde0c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

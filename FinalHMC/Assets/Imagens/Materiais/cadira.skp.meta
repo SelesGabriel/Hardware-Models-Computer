@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 3600836cc2a9093468ff10f0334195b5
+timeCreated: 1481308620
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a10b9312cca0abf38b5ca16aac236e05
+  longitude: 2.183
+  latitude: 41.383
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.30616847, y: 0.46711186, z: -1.5438852}
+      lookAt: {x: 0.30616847, y: 0.46711186, z: 0.2929652}
+      up: {x: 0, y: 1, z: 0}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.30616847, y: 0.46711186, z: -1.5438852}
+        lookAt: {x: 0.30616847, y: 0.46711186, z: 0.2929652}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+    - camera:
+        position: {x: -1.6736919, y: 0.5068096, z: 0.2638929}
+        lookAt: {x: 0.30616853, y: 0.5068096, z: 0.2638929}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+    - camera:
+        position: {x: 0.30616853, y: 0.540073, z: 2.3661819}
+        lookAt: {x: 0.30616853, y: 0.540073, z: 0.2929652}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 3
+    - camera:
+        position: {x: 2.2860303, y: 0.50680906, z: 0.26389286}
+        lookAt: {x: 0.30616853, y: 0.50680906, z: 0.26389286}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 4
+    - camera:
+        position: {x: 0.30616847, y: 0.46711186, z: -1.5438852}
+        lookAt: {x: 0.30616847, y: 0.46711186, z: 0.2929652}
+        up: {x: 0, y: 1, z: 0}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 5
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: kriz
+    100004: skp8B5E
+    400000: //RootNode
+    400002: kriz
+    400004: skp8B5E
+    2300000: kriz
+    3300000: kriz
+    4300000: Mesh kriz
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
